@@ -1,0 +1,15 @@
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\obj\Debug\ImageTransforms.csprojAssemblyReference.cache
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\bin\Debug\ImageTransforms.dll
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\bin\Debug\ImageTransforms.pdb
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\bin\Debug\PluginSupporter.dll
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\bin\Debug\System.Drawing.Common.dll
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\bin\Debug\PluginSupporter.pdb
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\obj\Debug\ImageTransforms.csproj.CopyComplete
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\obj\Debug\ImageTransforms.dll
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\obj\Debug\ImageTransforms.pdb
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\bin\Debug\MetadataExtractor.dll
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\bin\Debug\XmpCore.dll
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\bin\Debug\MetadataExtractor.xml
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\bin\Debug\XmpCore.xml
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\helio\source\repos\PaintMDI_WF\ImageTransforms\bin\Debug\Newtonsoft.Json.xml

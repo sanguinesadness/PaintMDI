@@ -1,0 +1,5 @@
+C:\Users\helio\source\repos\PaintMDI_WF\PluginSupporter\bin\Debug\PluginSupporter.dll
+C:\Users\helio\source\repos\PaintMDI_WF\PluginSupporter\bin\Debug\PluginSupporter.pdb
+C:\Users\helio\source\repos\PaintMDI_WF\PluginSupporter\obj\Debug\PluginSupporter.dll
+C:\Users\helio\source\repos\PaintMDI_WF\PluginSupporter\obj\Debug\PluginSupporter.pdb
+C:\Users\helio\source\repos\PaintMDI_WF\PluginSupporter\obj\Debug\PluginSupporter.csprojAssemblyReference.cache
